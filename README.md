@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Execode & Indonesia Mitra Media <br>🌱 I’m currently learning Web & Mobile Development<br>
+🔭 I’m currently working on Indonesia Mitra Media <br>🌱 I’m currently learning Web & Mobile Development<br>
 
 
 ## 🌐 Socials:
